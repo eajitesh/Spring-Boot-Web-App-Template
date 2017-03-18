@@ -17,7 +17,7 @@ public class DoctorService {
 		
 		Doctor doc2 = new Doctor();
 		doc2.setId("doc2");
-		doc2.setFirstName("Aiyana");
+		doc2.setFirstName("Aditi");
 		doc2.setLastName("Shukla");
 		doc2.setSpecialityCode("Gyanocaelogy");
 		docList.add(doc2);
