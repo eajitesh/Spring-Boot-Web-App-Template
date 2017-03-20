@@ -10,7 +10,7 @@ public class DoctorService {
 		
 		Doctor doc1 = new Doctor();
 		doc1.setId("doc1");
-		doc1.setFirstName("Ajithesh");
+		doc1.setFirstName("Ajitesh");
 		doc1.setLastName("Kumar Shukla");
 		doc1.setSpecialityCode("Orthopedics");
 		docList.add(doc1);
